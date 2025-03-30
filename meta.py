@@ -124,3 +124,6 @@ print(Fore.GREEN+"[+] Provider "+meta["sender-client"])
 print(Fore.GREEN+"[+] Content-Type: "+meta["content-type"])
 print(Fore.GREEN+"[+] Date and Time: "+meta["dt"])
 print(Fore.GREEN+"[+] Subject: "+meta["subject"]+"\n\n")
+
+# Creation artifact
+print(Fore.BLUE+"\n====================Creation Artifact====================\n"+Style.RESET_ALL)
